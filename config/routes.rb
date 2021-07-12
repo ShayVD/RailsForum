@@ -32,5 +32,5 @@ end
     resources :forum_posts, module: :forum_threads
   end
   
-  root to: 'home#index'
+  root to: 'forum_threads#index'
 end
