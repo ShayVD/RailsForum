@@ -78,3 +78,5 @@ gem 'sitemap_generator', '~> 6.1', '>= 6.1.2'
 gem 'whenever', require: false
 
 gem "record_tag_helper", "~> 1.0"
+
+gem "ransack", "~> 2.4"
