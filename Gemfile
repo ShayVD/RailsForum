@@ -80,3 +80,11 @@ gem 'whenever', require: false
 gem "record_tag_helper", "~> 1.0"
 
 gem "ransack", "~> 2.4"
+
+gem "local_time", "~> 2.1"
+
+gem "html-pipeline", "~> 2.14"
+gem "github-markdown", "~> 0.6.9"
+gem "gemoji", "~> 3.0"
+gem "sanitize", "~> 5.2"
+gem "paranoia", "~> 2.4"
